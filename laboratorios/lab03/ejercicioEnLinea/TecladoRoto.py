@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 28 21:41:04 2021
 
-@author: ADMIN
+@author: Maria Antonia, Diego Múnera
 """
 
 from collections import deque
