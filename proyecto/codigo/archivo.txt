@@ -1,1 +1,2 @@
-Archivo adicional para permitir la creaci�n de carpetas
+Archivo adicional para permitir la creación de carpetas
+En la última entrega es necesario descargar el archivo .zip para poder ejecutar el código y que este funcione correctamente (además de tener las imagenes de prueba en el mismo path que el código)
